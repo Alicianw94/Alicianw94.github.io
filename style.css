@@ -1,1 +1,46 @@
+body {
+  background-color: #30D5C8;
+  color: #800000;
+  font-family: Apple Chancery, sans-serif;
+  margin: 10% 20%;
+}
 
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top : 1px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
+  background-color: rgba(0,0,0, 0.1)
+  
+}
+
+.vab{
+  text-align:center;
+}
+
+.det{
+  text-align:left;
+}
+.mab{
+  text-align:center;
+}
+
+.dett{
+  text-align:left;
+}
+
+.jgpl{
+  text-align:center;
+}
+
+.dettt{
+  text-align:left;
+}
+
+.arm{
+  text-align:center;
+}
+
+.detttt{
+  text-align:left;
+}
